@@ -1,0 +1,4 @@
+# Добавьте прокси, каждый с новой строки
+# Формат: socks5://user:pass@host:port
+# Или: http://user:pass@host:port
+socks5://user:password@1.2.3.4:10000
